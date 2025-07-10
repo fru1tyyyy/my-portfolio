@@ -75,7 +75,7 @@ const Projects = () => {
         <div className="project">
           <h2>Cinema Booking</h2>
           <p>A booking cinema website built using Java</p>
-          <p><a href="#" target="_blank" rel="noreferrer">View Code</a></p>
+          <p><a href="https://github.com/fru1tyyyy/cinema-booking" target="_blank" rel="noreferrer">View Code</a></p>
         </div>
         <div className="project">
           <h2>Game Recommendation (Gammy)</h2>
