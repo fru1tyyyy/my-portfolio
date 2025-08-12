@@ -78,6 +78,11 @@ const Projects = () => {
           <p><a href="https://github.com/fru1tyyyy/cinema-booking" target="_blank" rel="noreferrer">View Code</a></p>
         </div>
         <div className="project">
+          <h2>Machine Learning</h2>
+          <p>A Machine Learning that predict price, is about Data Science</p>
+          <p><a href="https://github.com/fru1tyyyy/predict-price" target="_blank" rel="noreforrer">View Code</a></p>
+        </div>
+        <div className="project">
           <h2>Game Recommendation (Gammy)</h2>
           <p>My diploma FYP built using HTML, CSS, JavaScript and PHP</p>
           <p><a href="https://github.com/fru1tyyyy/Gammy" target="_blank" rel="noreferrer">View Code</a></p>
@@ -85,7 +90,7 @@ const Projects = () => {
       </div>
       <footer>
         Copyright © 2025 Yu Been <br />
-        Built by Yu Been •{" "}<a href="https://github.com/fru1tyyyy" target="_blank" rel="noreferrer" style={{ color: "#666" }}>GitHub</a>
+        Built by Yu Been •<a href="https://github.com/fru1tyyyy" target="_blank" rel="noreferrer" style={{ color: "#666" }}>GitHub</a>
       </footer>
     </>
   );
