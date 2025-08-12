@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import "./Portfolio.css";
-import pfp from "./img/husky.jpg";
+import pfp from "./img/jett.png";
 
 <title>About Me</title>
 export default function About(){
@@ -47,7 +47,7 @@ export default function About(){
       </div>
       <footer>
         Copyright © 2025 Yu Been <br />
-        Built by Yu Been •{" "}<a href="https://github.com/fru1tyyyy" target="_blank" rel="noreferrer" style={{ color: "#666"}}>GitHub</a>
+        Built by Yu Been •<a href="https://github.com/fru1tyyyy" target="_blank" rel="noreferrer" style={{ color: "#666"}}>GitHub</a>
       </footer>
     </div>
   )
