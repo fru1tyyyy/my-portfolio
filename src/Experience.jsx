@@ -18,36 +18,47 @@ const Experience = () => {
         <div className="timeline-item left">
           <div className="content">
             <h3>Bachelor in Software Engineering</h3>
-            <strong>Apr 2025 - Apr 2027</strong>
-            <p>Currently studying in Sunway University</p>
+            <strong>Sunway University</strong><br></br>
+            <small>April 2025 - April 2027</small>
+            <p>I'm currently taking Bachelor in Software Engineering and expected to graduate in April 2027. 
+              During my degree, I hope to learn things I didn’t cover during my self-study or diploma. 
+              So far, the assignments feel similar to diploma, so I’m not scared at all.</p>
           </div>
         </div>
         <div className="timeline-item right">
           <div className="content">
-            <h3>BASS SDN BHD</h3>
-            <strong>Aug 2024 - Dec 2024</strong>
-            <p>Work as Software Intern for my Internship</p>
+            <h3>Internship</h3>
+            <strong>BASS SDN BHD</strong><br></br>
+            <small>August 2024 - December 2024</small>
+            <p>Worked as a Software Intern. During the internship, I experienced working life and gained skills like C# and JavaScript. 
+                I mainly focused on backend development throughout the internship.</p>
           </div>
         </div>
         <div className="timeline-item left">
           <div className="content">
-            <h3>My Pets Haven</h3>
-            <strong>May 2024</strong>
-            <p>Volunteer to help for Community Service</p>
+            <h3>Community Service</h3>
+            <strong>My Pets Havens</strong><br></br>
+            <small>May 2024</small>
+            <p>This was part of my diploma assignment. I volunteered at My Pets Haven by feeding dogs, cleaning cages, 
+                and assisting with a dog’s injection appointment. I learned teamwork and how to better care for animals.</p>
           </div>
         </div>
         <div className="timeline-item right">
           <div className="content">
             <h3>Diploma in Computer Science</h3>
-            <strong>Apr 2023 - Apr 2025</strong>
-            <p>Graduated on 2025 in Sunway College</p>
+            <strong>Sunway College</strong><br></br>
+            <small>April 2023 - April 2025</small>
+            <p>Graduated with a Diploma in April 2025. During my diploma, I gained coding experience in Python, Java, PHP, and Scala. 
+              I also used tools like VS Code, Google Colab, Databricks, and Qlik Sense.</p>
           </div>
         </div>
         <div className="timeline-item left">
           <div className="content">
             <h3>IGCSE</h3>
-            <strong>2018 - 2022</strong>
-            <p>Finish IGCSE and graduated in DWI EMAS</p>
+            <strong>DWI EMAS</strong><br></br>
+            <small>2018 - 2022</small>
+            <p>I completed my IGCSE in November 2022. The subjects I took included Math, Add Math, Accounting, Biology, and Physics. 
+                I was scared at first entering high school, but later I got used to it and wasn’t scared anymore.</p>
           </div>
         </div>
       </div>
