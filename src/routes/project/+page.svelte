@@ -54,40 +54,35 @@
   <section class="skills">
     <ul class="skills-list">
       <li class="skill-card">
-        <i class="fa-brands fa-python"></i>
-        <strong> Python</strong><br />
+        <strong> Python</strong><br/>
         <small>Language</small>
       </li>
       <li class="skill-card">
-        <i class="fa-brands fa-js"></i>
-        <strong> JavaScript</strong><br />
+        <strong> JavaScript</strong><br/>
         <small>Language</small>
       </li>
       <li class="skill-card">
-        <i class="fa-brands fa-react"></i>
-        <strong> React</strong><br />
+        <strong> React</strong><br/>
         <small>Library</small>
       </li>
       <li class="skill-card">
-        <i class="fa-brands fa-java"></i>
-        <strong> Java</strong><br />
+        <strong> Java</strong><br/>
         <small>Language</small>
       </li>
       <li class="skill-card">
-        <strong>C#</strong><br />
-        <small>Language</small>
-      </li>
-      <li class="skill-card">
-        <i class="fa-brands fa-php"></i>
-        <strong> PHP</strong><br />
-        <small>Language</small>
-      </li>
-      <li class="skill-card">
-        <strong>Express</strong><br />
+        <strong>Svelte</strong><br/>
         <small>Framework</small>
       </li>
       <li class="skill-card">
-        <strong>TypeScript</strong><br />
+        <strong> PHP</strong><br/>
+        <small>Language</small>
+      </li>
+      <li class="skill-card">
+        <strong>Express</strong><br/>
+        <small>Framework</small>
+      </li>
+      <li class="skill-card">
+        <strong>TypeScript</strong><br/>
         <small>Language</small>
       </li>
     </ul>
@@ -95,26 +90,21 @@
   <div class="section-title">My Projects</div>
   <div class="project">
     <h2>My Portfolio</h2>
-    <p>My first personal portfolio built using JavaScript, React, and CSS</p>
+    <p>My first personal portfolio built using Svelte</p>
     <p><a href="https://github.com/fru1tyyyy/my-portfolio" target="_blank" rel="noreferrer">View Code</a></p>
   </div>
   <div class="project">
     <h2>CubeX</h2>
     <p>A website that sells cubes built using JavaScript, TypeScript, React and Express</p>
-    <p><a href="https://github.com/fru1tyyyy/my-portfolio" target="_blank" rel="noreferrer">View Code</a></p>
+    <p><a href="https://github.com/fru1tyyyy/cubex" target="_blank" rel="noreferrer">View Code</a></p>
   </div>
   <div class="project">
-    <h2>Discord Bot (Killua)</h2>
+    <h2>Killua</h2>
     <p>A music bot built using Python</p>
     <p><a href="https://github.com/fru1tyyyy/Discord-Bot" target="_blank" rel="noreferrer">View Code</a></p>
   </div>
   <div class="project">
-    <h2>Flappybird</h2>
-    <p>Flappybird game built using JavaScript</p>
-    <p><a href="https://github.com/fru1tyyyy/Flappy-Bird" target="_blank" rel="noreferrer">View Code</a></p>
-  </div>
-  <div class="project">
-    <h2>Machine Learning</h2>
+    <h2>Predict Price</h2>
     <p>A Machine Learning project that predicts price, is about Data Science</p>
     <p><a href="https://github.com/fru1tyyyy/predict-price" target="_blank" rel="noreferrer">View Code</a></p>
   </div>
